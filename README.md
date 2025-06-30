@@ -1,3 +1,3 @@
-# JournalNLP
+# Natural Language - Apple's CoreML
 
-testing git
+A simple project that tests Apple's Natural Language capabilities.
